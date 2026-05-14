@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "24/7BOT",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "emfsttguy.minefort.com",
